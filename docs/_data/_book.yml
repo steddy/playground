@@ -1,11 +1,8 @@
 docs_list_title: ACME Documentation
 docs:
 
-- title: Introduction
-  url: introduction.html
+- title: Home
+  url: index.md
 
-- title: Configuration
-  url: configuration.html
-
-- title: Deployment
-  url: deployment.html
+- title: Guides
+  url: guides.md
