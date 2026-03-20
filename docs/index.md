@@ -1,6 +1,6 @@
----
-sidebar_position: 1
----
+layout: page
+title: "Home"
+permalink: /docs/home
 
 # This is the playground
 
