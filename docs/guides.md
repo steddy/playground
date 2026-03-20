@@ -1,6 +1,6 @@
----
-sidebar_position: 2
----
+layout: page
+title: "Guides"
+permalink: /docs/guides
 
 # Guides
 
