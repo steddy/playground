@@ -1,6 +1,6 @@
-layout: page
-title: "Home"
-permalink: /docs/home
+---
+id: index
+---
 
 # This is the playground
 
