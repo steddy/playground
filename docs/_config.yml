@@ -1,5 +1,0 @@
-sidebar:
-  - label: Section One
-    children:
-      - index
-      - guides
