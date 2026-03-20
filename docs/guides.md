@@ -1,6 +1,6 @@
-layout: page
-title: "Guides"
-permalink: /docs/guides
+---
+id: guides
+---
 
 # Guides
 
